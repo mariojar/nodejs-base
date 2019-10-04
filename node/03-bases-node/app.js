@@ -27,4 +27,9 @@ switch (comando) {
 // let parametro = argvW[2];
 // let base = parametro.split('=')[1];
 
+
+
+
+
+
 console.log(argv);
